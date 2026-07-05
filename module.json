@@ -1,0 +1,40 @@
+{
+  "id": "jake-data",
+  "title": "Jake Data",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "jake-characters-1",
+      "label": "Jake Characters",
+      "path": "packs/jake-characters-1",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "jake-items-2",
+      "label": "Jake Items",
+      "path": "packs/jake-items-2",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "action": "manageModule",
+  "description": ""
+}
