@@ -9,6 +9,7 @@
   "flags": {
     "canUpload": true
   },
+  "url": "https://github.com/jspare-dev/Jake-Data",
   "packs": [
     {
       "name": "jake-characters-1",
