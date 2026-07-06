@@ -10,6 +10,8 @@
     "canUpload": true
   },
   "url": "https://github.com/jspare-dev/Jake-Data",
+  "download": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0/jake-data.zip",
+  "manifest": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0/module.json",
   "packs": [
     {
       "name": "jake-characters-1",
