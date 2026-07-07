@@ -11,7 +11,7 @@
   },
   "url": "https://github.com/jspare-dev/Jake-Data",
   "download": "https://github.com/jspare-dev/Jake-Data/releases/latest/download/jake-data.zip",
-  "manifest": "https://raw.githubusercontent.com/jspare-dev/Jake-Data/refs/heads/main/module.json",
+  "manifest": "https://github.com/jspare-dev/Jake-Data/releases/latest/download/module.json",
   "packs": [
     {
       "name": "jake-characters-1",
