@@ -1,7 +1,27 @@
-2026/07/07-16:22:10.602 5124 Recovering log #67
-2026/07/07-16:22:10.606 5124 Delete type=0 #67
-2026/07/07-16:22:10.606 5124 Delete type=3 #65
-2026/07/07-16:43:18.836 3dec Level-0 table #72: started
-2026/07/07-16:43:18.836 3dec Level-0 table #72: 0 bytes OK
-2026/07/07-16:43:18.838 3dec Delete type=0 #70
-2026/07/07-16:43:18.838 3dec Manual compaction at level-0 from '!actors!704w94FFK3nmw9hG' @ 72057594037927935 : 1 .. '!actors.items.effects!704w94FFK3nmw9hG.zHxUOr4cneabbTyW.pOgbtXbKVGdbwjjE' @ 0 : 0; will stop at (end)
+2026/07/07-19:56:30.832 2998 Recovering log #71
+2026/07/07-19:56:30.836 2998 Delete type=2 #18
+2026/07/07-19:56:30.836 2998 Delete type=0 #21
+2026/07/07-19:56:30.836 2998 Delete type=0 #36
+2026/07/07-19:56:30.836 2998 Delete type=2 #38
+2026/07/07-19:56:30.836 2998 Delete type=0 #40
+2026/07/07-19:56:30.836 2998 Delete type=0 #41
+2026/07/07-19:56:30.836 2998 Delete type=2 #43
+2026/07/07-19:56:30.836 2998 Delete type=0 #52
+2026/07/07-19:56:30.836 2998 Delete type=0 #70
+2026/07/07-19:56:30.836 2998 Delete type=0 #71
+2026/07/07-19:56:30.836 2998 Delete type=3 #19
+2026/07/07-19:56:30.836 2998 Delete type=3 #34
+2026/07/07-19:56:30.836 2998 Delete type=3 #39
+2026/07/07-19:56:30.836 2998 Delete type=3 #50
+2026/07/07-19:56:30.836 2998 Delete type=3 #69
+2026/07/07-20:45:26.805 2ab8 Level-0 table #76: started
+2026/07/07-20:45:26.807 2ab8 Level-0 table #76: 8558 bytes OK
+2026/07/07-20:45:26.809 2ab8 Delete type=0 #74
+2026/07/07-20:45:26.809 2ab8 Manual compaction at level-0 from '!actors!704w94FFK3nmw9hG' @ 72057594037927935 : 1 .. '!actors.items.effects!704w94FFK3nmw9hG.zHxUOr4cneabbTyW.pOgbtXbKVGdbwjjE' @ 0 : 0; will stop at '!actors.items!704w94FFK3nmw9hG.eO3ZSee2ADdC8KyM' @ 533 : 1
+2026/07/07-20:45:26.809 2ab8 Compacting 1@0 + 1@1 files
+2026/07/07-20:45:26.812 2ab8 Generated table #77@0: 86 keys, 92587 bytes
+2026/07/07-20:45:26.812 2ab8 Compacted 1@0 + 1@1 files => 92587 bytes
+2026/07/07-20:45:26.815 2ab8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/07-20:45:26.815 2ab8 Delete type=2 #54
+2026/07/07-20:45:26.815 2ab8 Delete type=2 #76
+2026/07/07-20:45:26.815 2ab8 Manual compaction at level-0 from '!actors.items!704w94FFK3nmw9hG.eO3ZSee2ADdC8KyM' @ 533 : 1 .. '!actors.items.effects!704w94FFK3nmw9hG.zHxUOr4cneabbTyW.pOgbtXbKVGdbwjjE' @ 0 : 0; will stop at (end)

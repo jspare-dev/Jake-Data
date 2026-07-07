@@ -1,7 +1,26 @@
-2026/07/07-16:22:10.608 5124 Recovering log #64
-2026/07/07-16:22:10.612 5124 Delete type=0 #64
-2026/07/07-16:22:10.612 5124 Delete type=3 #62
-2026/07/07-16:43:18.847 3dec Level-0 table #69: started
-2026/07/07-16:43:18.847 3dec Level-0 table #69: 0 bytes OK
-2026/07/07-16:43:18.849 3dec Delete type=0 #67
-2026/07/07-16:43:18.849 3dec Manual compaction at level-0 from '!folders!bNUwpUf8lsjEGM78' @ 72057594037927935 : 1 .. '!items.effects!yl1RxRvkHiQA0bIl.M8EN6Y6zSWkCZY1l' @ 0 : 0; will stop at (end)
+2026/07/07-19:56:30.845 2998 Recovering log #68
+2026/07/07-19:56:30.850 2998 Delete type=2 #5
+2026/07/07-19:56:30.850 2998 Delete type=0 #20
+2026/07/07-19:56:30.850 2998 Delete type=2 #26
+2026/07/07-19:56:30.850 2998 Delete type=0 #35
+2026/07/07-19:56:30.850 2998 Delete type=0 #38
+2026/07/07-19:56:30.850 2998 Delete type=0 #39
+2026/07/07-19:56:30.850 2998 Delete type=0 #50
+2026/07/07-19:56:30.850 2998 Delete type=0 #67
+2026/07/07-19:56:30.850 2998 Delete type=0 #68
+2026/07/07-19:56:30.850 2998 Delete type=3 #18
+2026/07/07-19:56:30.850 2998 Delete type=3 #33
+2026/07/07-19:56:30.850 2998 Delete type=3 #37
+2026/07/07-19:56:30.850 2998 Delete type=3 #48
+2026/07/07-19:56:30.850 2998 Delete type=3 #66
+2026/07/07-20:45:26.824 2ab8 Level-0 table #73: started
+2026/07/07-20:45:26.830 2ab8 Level-0 table #73: 1493 bytes OK
+2026/07/07-20:45:26.832 2ab8 Delete type=0 #71
+2026/07/07-20:45:26.832 2ab8 Manual compaction at level-0 from '!folders!bNUwpUf8lsjEGM78' @ 72057594037927935 : 1 .. '!items.effects!yl1RxRvkHiQA0bIl.M8EN6Y6zSWkCZY1l' @ 0 : 0; will stop at '!items!rPJeJnV4tWN8jDIW' @ 23 : 1
+2026/07/07-20:45:26.832 2ab8 Compacting 1@0 + 1@1 files
+2026/07/07-20:45:26.835 2ab8 Generated table #74@0: 17 keys, 26646 bytes
+2026/07/07-20:45:26.835 2ab8 Compacted 1@0 + 1@1 files => 26646 bytes
+2026/07/07-20:45:26.837 2ab8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/07-20:45:26.837 2ab8 Delete type=2 #41
+2026/07/07-20:45:26.837 2ab8 Delete type=2 #73
+2026/07/07-20:45:26.843 2ab8 Manual compaction at level-0 from '!items!rPJeJnV4tWN8jDIW' @ 23 : 1 .. '!items.effects!yl1RxRvkHiQA0bIl.M8EN6Y6zSWkCZY1l' @ 0 : 0; will stop at (end)
