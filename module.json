@@ -1,7 +1,7 @@
 {
   "id": "jake-data",
   "title": "Jake Data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -10,8 +10,8 @@
     "canUpload": true
   },
   "url": "https://github.com/jspare-dev/Jake-Data",
-  "download": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0/jake-data.zip",
-  "manifest": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0/module.json",
+  "download": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0.1/jake-data.zip",
+  "manifest": "https://github.com/jspare-dev/Jake-Data/releases/download/v1.0.1/module.json",
   "packs": [
     {
       "name": "jake-characters-1",
