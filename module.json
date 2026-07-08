@@ -1,7 +1,7 @@
 {
   "id": "jake-data",
   "title": "Jake Data",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "14",
     "verified": "14"

@@ -1,7 +1,23 @@
-2026/07/07-16:22:10.602 5124 Recovering log #67
-2026/07/07-16:22:10.606 5124 Delete type=0 #67
-2026/07/07-16:22:10.606 5124 Delete type=3 #65
-2026/07/07-16:43:18.836 3dec Level-0 table #72: started
-2026/07/07-16:43:18.836 3dec Level-0 table #72: 0 bytes OK
-2026/07/07-16:43:18.838 3dec Delete type=0 #70
-2026/07/07-16:43:18.838 3dec Manual compaction at level-0 from '!actors!704w94FFK3nmw9hG' @ 72057594037927935 : 1 .. '!actors.items.effects!704w94FFK3nmw9hG.zHxUOr4cneabbTyW.pOgbtXbKVGdbwjjE' @ 0 : 0; will stop at (end)
+2026/07/07-20:57:33.040 539c Recovering log #75
+2026/07/07-20:57:33.044 539c Delete type=2 #18
+2026/07/07-20:57:33.044 539c Delete type=0 #21
+2026/07/07-20:57:33.044 539c Delete type=0 #36
+2026/07/07-20:57:33.044 539c Delete type=2 #38
+2026/07/07-20:57:33.044 539c Delete type=0 #40
+2026/07/07-20:57:33.044 539c Delete type=0 #41
+2026/07/07-20:57:33.045 539c Delete type=2 #43
+2026/07/07-20:57:33.045 539c Delete type=0 #52
+2026/07/07-20:57:33.045 539c Delete type=2 #54
+2026/07/07-20:57:33.045 539c Delete type=0 #70
+2026/07/07-20:57:33.045 539c Delete type=0 #71
+2026/07/07-20:57:33.045 539c Delete type=0 #75
+2026/07/07-20:57:33.045 539c Delete type=3 #19
+2026/07/07-20:57:33.045 539c Delete type=3 #34
+2026/07/07-20:57:33.045 539c Delete type=3 #39
+2026/07/07-20:57:33.045 539c Delete type=3 #50
+2026/07/07-20:57:33.045 539c Delete type=3 #69
+2026/07/07-20:57:33.045 539c Delete type=3 #73
+2026/07/07-20:59:02.168 52d8 Level-0 table #81: started
+2026/07/07-20:59:02.168 52d8 Level-0 table #81: 0 bytes OK
+2026/07/07-20:59:02.170 52d8 Delete type=0 #79
+2026/07/07-20:59:02.173 52d8 Manual compaction at level-0 from '!actors!704w94FFK3nmw9hG' @ 72057594037927935 : 1 .. '!actors.items.effects!704w94FFK3nmw9hG.zHxUOr4cneabbTyW.pOgbtXbKVGdbwjjE' @ 0 : 0; will stop at (end)

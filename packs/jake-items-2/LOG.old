@@ -1,7 +1,22 @@
-2026/07/07-16:22:10.608 5124 Recovering log #64
-2026/07/07-16:22:10.612 5124 Delete type=0 #64
-2026/07/07-16:22:10.612 5124 Delete type=3 #62
-2026/07/07-16:43:18.847 3dec Level-0 table #69: started
-2026/07/07-16:43:18.847 3dec Level-0 table #69: 0 bytes OK
-2026/07/07-16:43:18.849 3dec Delete type=0 #67
-2026/07/07-16:43:18.849 3dec Manual compaction at level-0 from '!folders!bNUwpUf8lsjEGM78' @ 72057594037927935 : 1 .. '!items.effects!yl1RxRvkHiQA0bIl.M8EN6Y6zSWkCZY1l' @ 0 : 0; will stop at (end)
+2026/07/07-20:57:33.048 539c Recovering log #72
+2026/07/07-20:57:33.052 539c Delete type=2 #5
+2026/07/07-20:57:33.052 539c Delete type=0 #20
+2026/07/07-20:57:33.052 539c Delete type=2 #26
+2026/07/07-20:57:33.052 539c Delete type=0 #35
+2026/07/07-20:57:33.052 539c Delete type=0 #38
+2026/07/07-20:57:33.052 539c Delete type=0 #39
+2026/07/07-20:57:33.052 539c Delete type=2 #41
+2026/07/07-20:57:33.052 539c Delete type=0 #50
+2026/07/07-20:57:33.052 539c Delete type=0 #67
+2026/07/07-20:57:33.052 539c Delete type=0 #68
+2026/07/07-20:57:33.052 539c Delete type=0 #72
+2026/07/07-20:57:33.052 539c Delete type=3 #18
+2026/07/07-20:57:33.053 539c Delete type=3 #33
+2026/07/07-20:57:33.053 539c Delete type=3 #37
+2026/07/07-20:57:33.053 539c Delete type=3 #48
+2026/07/07-20:57:33.053 539c Delete type=3 #66
+2026/07/07-20:57:33.053 539c Delete type=3 #70
+2026/07/07-20:59:02.170 52d8 Level-0 table #78: started
+2026/07/07-20:59:02.170 52d8 Level-0 table #78: 0 bytes OK
+2026/07/07-20:59:02.171 52d8 Delete type=0 #76
+2026/07/07-20:59:02.173 52d8 Manual compaction at level-0 from '!folders!bNUwpUf8lsjEGM78' @ 72057594037927935 : 1 .. '!items.effects!yl1RxRvkHiQA0bIl.M8EN6Y6zSWkCZY1l' @ 0 : 0; will stop at (end)
